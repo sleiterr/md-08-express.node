@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "Consectetur adipiscing elit.",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "description": "Sed do eiusmod tempor.",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "description": "Ut labore et dolore magna.",
+      "price": 400
+    }
+  ]
+}
